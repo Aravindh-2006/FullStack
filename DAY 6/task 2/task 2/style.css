@@ -1,0 +1,10 @@
+/* Write your code here: */
+*{
+    color:rgb(158, 64, 158);
+}
+.box p{
+    color: rgb(175, 44, 44);
+}
+li.done{
+    color: rgb(38, 124, 38);
+}
